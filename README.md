@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 1. Calibration by Chessboard (классическая калибровка камеры)
+##  1. Calibration by Chessboard (классическая калибровка камеры)
 
 **Папка:** `calibration_chessboard/`  
 **Файл:** `calibrate_chessboard.py`
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 2. Calibration by 4 Manual Points (ручная калибровка по 4 кликам)
+##  2. Calibration by 4 Manual Points (ручная калибровка по 4 кликам)
 
 **Папка:** `calibration_4points/`  
 **Файл:** `calibrate_4points.py`
@@ -38,7 +38,7 @@
 
 ---
 
-## 📌 3. Auto Calibration by Box Geometry (автокалибровка по геометрии корпуса)
+##  3. Auto Calibration by Box Geometry (автокалибровка по геометрии корпуса)
 
 **Папка:** `calibration_geometry_auto/`  
 **Файл:** `calibrate_geometry_auto.py`
@@ -56,9 +56,9 @@
 ✔ когда нужен **автоматический** способ без шахматки и кликов  
 
 
-## 🛠 Требования
+## Требования
 
 - Python 3.8+
-- OpenCV (`pip install opencv-python opencv-contrib-python`)
+- OpenCV 
 - NumPy
 - (опционально) PyYAML
