@@ -18,3 +18,5 @@
 
 ```bash
 python calibrate_chessboard.py
+```
+5. Итоговый файл: camera.yaml
